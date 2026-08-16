@@ -1,6 +1,6 @@
 # Zomato Interview Synthesis — Wk 1 Extended Exercise
 
-**Student Name:** Mani Kumar VST, **Batch:** August26, **Date Submitted:** 14 Aug 2026, **GitHub file URL:** [Paste your GitHub file URL after committing]
+**Student Name:** Mani Kumar VST, **Batch:** August26, **Date Submitted:** 14 Aug 2026, **GitHub file URL:** https://github.com/ManiKumarVST/ai-pm-journey/blob/2d674b4db339af469c00a9e1609dbd96af3c1383/docs/exercises/zomato-synthesis.md
 
 ---
 
